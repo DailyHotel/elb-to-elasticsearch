@@ -4,6 +4,8 @@
 
 Fluentd Docker image, which ships AWS ELB/ALB logs to Elasticsearch.
 
+![](docs/images/Kibana_-_ELB_access_logs.png)
+
 ## Kubernetes usages
 
 ``` yaml
