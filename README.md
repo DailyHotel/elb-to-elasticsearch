@@ -1,3 +1,5 @@
+[![](https://images.microbadger.com/badges/image/dailyhotel/labelgun.svg)](https://microbadger.com/images/dailyhotel/labelgun "Get your own image badge on microbadger.com")
+
 # elb-to-elasticsearch
 
 Fluentd Docker image, which ships AWS ELB/ALB logs to Elasticsearch.
