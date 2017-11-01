@@ -137,3 +137,5 @@ spec:
 
 - [shinsaka/fluent-plugin-elb-log
 ](https://github.com/shinsaka/fluent-plugin-elb-log)
+- [Enable Access Logs for Your Classic Load Balancer](http://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html)
+- [Enable access logging for ALBs created with alb-ingress-controller · Issue #90 · coreos/alb-ingress-controller](https://github.com/coreos/alb-ingress-controller/issues/90)
