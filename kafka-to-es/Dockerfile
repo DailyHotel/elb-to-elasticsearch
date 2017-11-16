@@ -2,7 +2,7 @@ FROM fluent/fluentd:v0.14-debian-onbuild
 LABEL maintainer="dev.backend@dailyhotel.com"
 
 # Set the timezone to KST
-RUN cat /usr/share/zoneinfo/Asia/Seoul > /etc/localtime
+# RUN cat /usr/share/zoneinfo/Asia/Seoul > /etc/localtime
 
 ENV LANGUAGE C.UTF-8
 ENV LANG C.UTF-8

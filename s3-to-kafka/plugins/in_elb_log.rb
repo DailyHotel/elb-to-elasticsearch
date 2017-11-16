@@ -230,6 +230,8 @@ class Fluent::Plugin::Elb_LogInput < Fluent::Plugin::Input
         continuation_token: resp.next_continuation_token
       )
     end
+
+    return contents
   end
 
   def get_file_from_s3(object_name)
